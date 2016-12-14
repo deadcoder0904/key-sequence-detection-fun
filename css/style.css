@@ -1,0 +1,17 @@
+html {
+	height: 100%;
+  background: radial-gradient(rgb(22, 135, 237), rgb(20, 90, 75));
+  font-family: 'Tahoma';
+  font-size: 2rem;
+  text-align: center;
+  font-style: italic;
+  color: white;
+}
+
+#stupid_line {
+	font-family: 'Tahoma';
+  font-size: 2rem;
+  text-align: center;
+  font-style: italic;
+  color: navy;
+}

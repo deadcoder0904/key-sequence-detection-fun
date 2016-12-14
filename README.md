@@ -1,5 +1,11 @@
 # key-sequence-detection-fun
 
+## Screenshots
+
+![1](http://imgur.com/L41LnP4.png)
+
+![2](http://imgur.com/vEHkUbe.png)
+
 ## License
 
 [MIT](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
